@@ -4,7 +4,7 @@ plugins {
     id 'maven-publish'
 }
 group = 'com.github.kwg520'
-version = '1.0.3'
+version = '3.0.1'
 afterEvaluate {
     publishing {
         publications {
@@ -15,7 +15,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.kwg520'
                 artifactId = 'myLoadingStateView'
-                version = '1.0.3'
+                version = '3.0.1'
             }
         }
     }
