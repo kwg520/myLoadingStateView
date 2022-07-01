@@ -4,6 +4,7 @@ plugins {
     id 'maven-publish'
 }
 group 'com.github.kwg520'
+
 publishing {
     publications {
         // 这个mavenJava可以随便填，只是一个任务名字而已
@@ -17,8 +18,6 @@ publishing {
         }
     }
 }
-
-
 
 android {
     compileSdk 32
