@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2765625" />
+        <entry key="databinding/src/main/res/layout/activity_data_binding.xml" value="0.26614583333333336" />
+        <entry key="rxjavalibrary/src/main/res/layout/activity_rx.xml" value="0.3020833333333333" />
+        <entry key="rxjavalibrary/src/main/res/layout/activity_rx_callbac_hell.xml" value="0.28229166666666666" />
       </map>
     </option>
   </component>
@@ -12,5 +15,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="MyloadingStateView.rxjavalibrary" />
+      </set>
+    </option>
   </component>
 </project>

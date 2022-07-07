@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "MyloadingStateView"
 include ':app'
 include ':mylibrary'
+include ':databinding'
+include ':rxjavalibrary'
